@@ -7,5 +7,5 @@ import java.util.jar.Attributes
 
 
 class DrawingView(context: Context, attrs: AttributeSet) : View(context, attrs) {
-
+private var mDRawath : CustomPgit gc --aggressive
 }
